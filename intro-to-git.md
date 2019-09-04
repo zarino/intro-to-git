@@ -59,7 +59,7 @@
 
 ## Showing what’s changed
 
-* Git is all about commits.
+* Git is all about commits. They’re awesome. Even really more awesome.
 
 * A commit is a discrete little bundle of:
    * Changes to lines in files, or additions/deletions of whole files
