@@ -5,12 +5,6 @@
 * Version control is about tracking changes to lines of code.
 * It’s useful for reverting changes, sharing changes, combining changes from different authors.
 
-## What is Git
-
-* Git is a [version control system](https://en.wikipedia.org/wiki/Version_control).
-* There are many others – you might have heard of things like [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) (SVN) or [Mercurial](https://en.wikipedia.org/wiki/Mercurial) (hg) in the past.
-* Most people use Git through the command line client, but you can get visual clients for Git, like [Tower](https://www.git-tower.com), [SourceTree](https://www.sourcetreeapp.com/), or [GitHub Desktop](https://desktop.github.com/).
-
 ## Git is not GitHub.
 
 * [GitHub](https://github.com) is a service lots of people use to host copies of their git projects (“repositories”).
